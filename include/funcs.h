@@ -3,7 +3,8 @@
 
 #include <stdio.h>
 
-void foo();
 void goo();
 void koo();
+void foo(int num);
+
 #endif
