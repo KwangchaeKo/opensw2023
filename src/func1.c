@@ -1,5 +1,5 @@
-#include "include/funcs.h"
+#include "funcs.h"
 
 void foo(){
-    printf("hello fpp\n");
+    printf("hello foo\n");
 }
