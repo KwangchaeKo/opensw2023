@@ -5,5 +5,5 @@
 
 void foo();
 void goo();
-
+void koo();
 #endif
